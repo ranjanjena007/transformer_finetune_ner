@@ -1,3 +1,3 @@
 # Transformer NER Project
 
-## 1.This project is to demonstrate finetune of transformer ner model, in dev
+## This project is to demonstrate finetuneing of transformer ner model.
